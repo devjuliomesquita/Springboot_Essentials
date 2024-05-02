@@ -1,5 +1,6 @@
 package com.juliomesquita.essentials.controller;
 
+import com.juliomesquita.essentials.domain.dto.StudentDTOWithoutId;
 import com.juliomesquita.essentials.domain.interfaces.StudentService;
 import com.juliomesquita.essentials.domain.interfaces.StudentsController;
 import org.springframework.http.HttpStatus;
@@ -35,13 +36,13 @@ public class StudentControllerImpl implements StudentsController {
     }
 
     @Override
-    public ResponseEntity<?> createStudent(String name) {
-        return new ResponseEntity<>(this.studentService.create(name), HttpStatus.CREATED);
+    public ResponseEntity<?> createStudent(StudentDTOWithoutId studentDTOWithoutId) {
+        return new ResponseEntity<>(this.studentService.create(studentDTOWithoutId.name()), HttpStatus.CREATED);
     }
 
     @Override
-    public ResponseEntity<?> updateStudent(Long id, String name) {
-        return new ResponseEntity<>(this.studentService.update(id, name), HttpStatus.OK);
+    public ResponseEntity<?> updateStudent(Long id, StudentDTOWithoutId studentDTOWithoutId) {
+        return new ResponseEntity<>(this.studentService.update(id, studentDTOWithoutId.name()), HttpStatus.OK);
     }
 
     @Override

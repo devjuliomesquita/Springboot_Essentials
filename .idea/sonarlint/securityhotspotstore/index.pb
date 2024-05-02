@@ -1,10 +1,6 @@
 
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-t
-Dsrc/main/java/com/juliomesquita/essentials/model/StudentsEntity.java,5/1/51fd47a3ad80cd2b08b33acf719ea82d9333588a
-|
-Lsrc/main/java/com/juliomesquita/essentials/controller/StudentController.java,e/c/ecef82f6ae9658b601974156d846706aadc7f89a
 i
 9src/main/java/com/juliomesquita/essentials/util/Util.java,b/d/bddf8ab7a75ec04551be4bbf9eb803620d306585
 p
@@ -20,8 +16,6 @@ Ssrc/main/java/com/juliomesquita/essentials/domain/interfaces/StudentRepository.
 Psrc/main/java/com/juliomesquita/essentials/domain/interfaces/StudentService.java,1/7/17e550675e7e83a36f1b1cc5496b94e6ee56cd29
 ~
 Nsrc/main/java/com/juliomesquita/essentials/domain/Entities/StudentsEntity.java,e/2/e28c63cb53d28c8b5a060c0c49ac9201ad48d94f
-r
-Bsrc/main/java/com/juliomesquita/essentials/domain/StudentsDTO.java,e/e/eef41d664d7225347fc537263b7fe7d0f62b905f
 v
 Fsrc/main/java/com/juliomesquita/essentials/domain/dto/StudentsDTO.java,3/2/322a7b6d6f201b75f16d8068eec5ad4b21ab9236
 {
@@ -91,3 +85,5 @@ K
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 w
 G.idea/sonarlint/issuestore/3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a,f/a/fa996fb25dd8afe6bf56a281bdff677f139b23bf
+~
+Nsrc/main/java/com/juliomesquita/essentials/domain/dto/StudentDTOWithoutId.java,3/c/3c4351a9df01c061de2fe59277d68928194d2415

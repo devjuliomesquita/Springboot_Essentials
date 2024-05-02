@@ -51,7 +51,7 @@ public class StudentServiceImpl implements StudentService {
 
     @Override
     public StudentsDTO findByName(String name) {
-        Optional<StudentsEntity> studentsEntity = this.studentRepository.findByNameIgnoreCaseContaing(name);
+        Optional<StudentsEntity> studentsEntity = this.studentRepository.findByNameIgnoreCaseContaining(name);
         return studentsEntity.map(StudentMapper::toDto)
                 .orElseThrow(() -> new EntityNotFoundException("Nome não existente."));
     }
