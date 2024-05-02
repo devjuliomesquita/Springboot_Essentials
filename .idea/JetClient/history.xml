@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="History">
+    <option name="requestHistoryStates">
+      <list>
+        <requestHistoryState>
+          <option name="dateTime" value="1714653778313" />
+          <option name="id" value="f798f602-7ff5-45c8-9f7d-5aeb2aaead11" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 12:42:57 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f798f602-7ff5-45c8-9f7d-5aeb2aaead11" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714653778540" />
+          <option name="id" value="904b2ee6-5f08-4075-a780-6af11290c507" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 12:42:58 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="904b2ee6-5f08-4075-a780-6af11290c507" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714653778757" />
+          <option name="id" value="6e9a411b-b11c-491a-8430-9f33434b1de7" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 12:42:58 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="6e9a411b-b11c-491a-8430-9f33434b1de7" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714653778971" />
+          <option name="id" value="f90b7a42-5d8e-417b-946c-6578bcacf619" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 12:42:58 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f90b7a42-5d8e-417b-946c-6578bcacf619" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714653779178" />
+          <option name="id" value="f3a4a857-479c-4908-acd3-8704659824a3" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 12:42:58 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f3a4a857-479c-4908-acd3-8704659824a3" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714653779384" />
+          <option name="id" value="f09bf31e-5085-4c67-bd4b-4e56bbeb1bc8" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 12:42:58 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f09bf31e-5085-4c67-bd4b-4e56bbeb1bc8" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714653779568" />
+          <option name="id" value="08e66e6e-bc9c-4b2f-afc0-2a500b2d43a8" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 12:42:59 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="08e66e6e-bc9c-4b2f-afc0-2a500b2d43a8" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="2" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714653779783" />
+          <option name="id" value="fb9ca6a1-373f-4a75-b8d6-33c6bcebf08b" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 12:42:59 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="fb9ca6a1-373f-4a75-b8d6-33c6bcebf08b" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714653779998" />
+          <option name="id" value="58e6b7c0-db31-44a0-b873-68b105294f3f" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 12:42:59 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="58e6b7c0-db31-44a0-b873-68b105294f3f" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714653780219" />
+          <option name="id" value="a55aa479-f353-4ea9-a4ef-8818e001c0d5" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 12:42:59 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="a55aa479-f353-4ea9-a4ef-8818e001c0d5" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714653780438" />
+          <option name="id" value="6e8ef9f8-aa79-46f2-ae81-703406d903ff" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 12:42:59 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="6e8ef9f8-aa79-46f2-ae81-703406d903ff" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="5" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714676409236" />
+          <option name="id" value="8408a2c3-7c55-4c27-ab7d-de2ff394fdfc" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 19:00:09 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="8408a2c3-7c55-4c27-ab7d-de2ff394fdfc" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="147" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714676430402" />
+          <option name="id" value="0ea203ab-8abe-404f-810f-49daf45ce445" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 19:00:30 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0ea203ab-8abe-404f-810f-49daf45ce445" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714676471700" />
+          <option name="id" value="606ad441-fec1-4d53-a924-1576ed4dfda6" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 19:01:11 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="606ad441-fec1-4d53-a924-1576ed4dfda6" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="149" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714676482757" />
+          <option name="id" value="9720e2b3-bc67-4a01-bcfa-e94ba219d177" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 19:01:22 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="9720e2b3-bc67-4a01-bcfa-e94ba219d177" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714676484180" />
+          <option name="id" value="c5084790-f0f0-4e0b-b8e9-0ca9ae1bff2e" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 19:01:24 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c5084790-f0f0-4e0b-b8e9-0ca9ae1bff2e" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714676484742" />
+          <option name="id" value="bbbf5eb0-82af-4a17-920d-98bbbd0df9c9" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 19:01:24 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="bbbf5eb0-82af-4a17-920d-98bbbd0df9c9" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714676485287" />
+          <option name="id" value="02168580-e879-469c-8d8b-207266d37178" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 19:01:25 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="02168580-e879-469c-8d8b-207266d37178" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714676487945" />
+          <option name="id" value="c1f75a5a-c34e-4375-8f86-afea338a7066" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 19:01:27 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c1f75a5a-c34e-4375-8f86-afea338a7066" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1714676488514" />
+          <option name="id" value="98507074-6b57-4c56-950c-4fe2be5a03b3" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="71feae4e-9794-4fff-8448-5eb13f5d7345" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/students/list" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3sibmFtZSI6IkrDumxpbyBNZXNxdWl0YSJ9LHsibmFtZSI6Ikpvw6NvIEZsb3JlcyJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;name&quot; : &quot;Júlio Mesquita&quot;&#10;  },&#10;  {&#10;    &quot;name&quot; : &quot;João Flores&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Transfer-Encoding" />
+                    <option name="value" value="chunked" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Thu, 02 May 2024 19:01:27 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=60" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="98507074-6b57-4c56-950c-4fe2be5a03b3" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;name&quot;:&quot;Júlio Mesquita&quot;},{&quot;name&quot;:&quot;João Flores&quot;}]" />
+              <option name="size" value="52" />
+              <option name="time" value="3" />
+            </responseState>
+          </option>
+        </requestHistoryState>
+      </list>
+    </option>
+  </component>
+</project>
