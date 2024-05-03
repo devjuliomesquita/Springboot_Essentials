@@ -87,3 +87,9 @@ w
 G.idea/sonarlint/issuestore/3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a,f/a/fa996fb25dd8afe6bf56a281bdff677f139b23bf
 ~
 Nsrc/main/java/com/juliomesquita/essentials/domain/dto/StudentDTOWithoutId.java,3/c/3c4351a9df01c061de2fe59277d68928194d2415
+u
+Esrc/main/java/com/juliomesquita/essentials/error/ResourceDetails.java,b/7/b7832dab253e8a96155194ce647c87096eb75ad8
+z
+Jsrc/main/java/com/juliomesquita/essentials/error/RestExceptionHandler.java,0/9/09ea995ce4011681846c08abb1a49a903d09470a
+‚
+Rsrc/main/java/com/juliomesquita/essentials/error/exceptions/NotFoundException.java,b/1/b1b65aafe06435a645034510767eb46d8274a858
