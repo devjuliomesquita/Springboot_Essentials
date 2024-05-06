@@ -34,10 +34,6 @@ w
 G.idea/sonarlint/issuestore/2/f/2f9b82022a943580f723f54d168b4ebfb8183dd6,6/7/67ac5c058c8bc966afda5d6d939bed3683dcdb43
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
-Å
-Q.idea/sonarlint/securityhotspotstore/e/e/eef41d664d7225347fc537263b7fe7d0f62b905f,0/b/0b034bb921b4c3c49da1fe534291ee674340ed27
-Å
-Q.idea/sonarlint/securityhotspotstore/5/1/51fd47a3ad80cd2b08b33acf719ea82d9333588a,a/3/a374fdd3cb3ec376b2d974863aee16d94cc42473
 w
 G.idea/sonarlint/issuestore/1/7/17e550675e7e83a36f1b1cc5496b94e6ee56cd29,6/a/6a69838a85ff718c2ee60e928f38a27a2588730c
 Å
@@ -56,8 +52,6 @@ G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8/6/86
 Q.idea/sonarlint/securityhotspotstore/2/f/2f9b82022a943580f723f54d168b4ebfb8183dd6,b/b/bbb6bb37197addc648ca6d9f07a747afa419b722
 Å
 Q.idea/sonarlint/securityhotspotstore/3/2/322a7b6d6f201b75f16d8068eec5ad4b21ab9236,e/f/ef7bdbab76748937a49cd88d438f91927ede88df
-Å
-Q.idea/sonarlint/securityhotspotstore/e/c/ecef82f6ae9658b601974156d846706aadc7f89a,f/1/f1b9e58bbcb6c96196cbc5d53914d27bfc589a8f
 Å
 Q.idea/sonarlint/securityhotspotstore/d/b/db85fbd0e644b8e1878707edd14eded23fbd5fc4,4/1/410c560be6053863ca47a630c5970fecc8afc31f
 w
@@ -87,9 +81,11 @@ w
 G.idea/sonarlint/issuestore/3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a,f/a/fa996fb25dd8afe6bf56a281bdff677f139b23bf
 ~
 Nsrc/main/java/com/juliomesquita/essentials/domain/dto/StudentDTOWithoutId.java,3/c/3c4351a9df01c061de2fe59277d68928194d2415
-u
-Esrc/main/java/com/juliomesquita/essentials/error/ResourceDetails.java,b/7/b7832dab253e8a96155194ce647c87096eb75ad8
 z
 Jsrc/main/java/com/juliomesquita/essentials/error/RestExceptionHandler.java,0/9/09ea995ce4011681846c08abb1a49a903d09470a
 Ç
 Rsrc/main/java/com/juliomesquita/essentials/error/exceptions/NotFoundException.java,b/1/b1b65aafe06435a645034510767eb46d8274a858
+r
+Bsrc/main/java/com/juliomesquita/essentials/error/ErrorDetails.java,7/1/716bf5e473a027ff40f1346958398c50fa657bc2
+}
+Msrc/main/java/com/juliomesquita/essentials/error/ValidationsErrorDetails.java,8/e/8ed2f1d4d5fdd200a2de4120112906cf64f2f943

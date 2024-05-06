@@ -12,6 +12,7 @@ public class StudentsEntity {
     @Column(name = "student_id", nullable = false)
     private Long id;
 
+
     @Column(name = "student_name")
     private String name;
 
